@@ -1,0 +1,7 @@
+#codigo, #ocultar, #formClientes, #formEmpresa{
+  display: none;
+}
+
+#productos .content{
+  max-height: 250px;
+}
